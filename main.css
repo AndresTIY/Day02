@@ -259,3 +259,6 @@ div {
   -webkit-justify-content: center;
           justify-content: center;
 }
+.anchor {
+  clear: both;
+}
